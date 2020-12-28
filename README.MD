@@ -1,23 +1,28 @@
 # Numerical Methods Resolver
 ### A CLI utility for Numerical Analysis for the defined methods.
 
-* Available methods: *
-i. Linear Systems Resolutions:
-    1. Open
-        a. Newton Raphson
-        b. Secant
-    2. Closed:
-        a. False Position (Regula Falsi)
-        b. Bisection. 
-ii. ODE Resolutions
-    1. Euler's Method
-    2. Modified Euler's Method
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xsahil03x/fancy_on_boarding/blob/master/LICENSE)
+
+
+* Available methods:
+
+i. Linear Systems Resolutions:<br />
+    1. Open:<br />
+        a. Newton Raphson<br />
+        b. Secant<br />
+    2. Closed:<br />
+        a. False Position (Regula Falsi)<br />
+        b. Bisection.<br />
+ii. ODE Resolutions<br />
+    1. Euler's Method<br />
+    2. Modified Euler's Method<br />
 
 
 ## Params definitions:
 ### Some of the parameters might not be used in some of the methods. It's better to let them be.
 ```js
-getCriteria = [
+const getCriteria = [
     'Estimated Error',
     'Total Error',
     'Iterations',
