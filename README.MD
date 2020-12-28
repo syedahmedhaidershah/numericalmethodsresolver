@@ -8,15 +8,15 @@
 - Available methods:
 
 * Linear Systems Resolutions:<br />
-** Open:<br />
-*** Newton Raphson<br />
-*** Secant<br />
-** Closed:<br />
-*** False Position (Regula Falsi)<br />
-*** Bisection.<br />
+    * Open:<br />
+        * Newton Raphson<br />
+        * Secant<br />
+    * Closed:<br />
+        * False Position (Regula Falsi)<br />
+        * Bisection.<br />
 * ODE Resolutions<br />
-** Euler's Method<br />
-** Modified Euler's Method<br />
+    * Euler's Method<br />
+    * Modified Euler's Method<br />
 
 
 ## Params definitions:
