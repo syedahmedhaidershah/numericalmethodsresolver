@@ -1,0 +1,14 @@
+module.exports ={
+    "x0a": [],
+    "x1a": [],
+    "x2a": [],
+    "funct": '',
+    "x0": 0,
+    "x1": 1,
+    "stopValue": 0,
+    "stopCriteria": "Estimated Error",
+    "root": 0,
+    "precision": 5,
+    "ea": [],
+    "et": []
+}

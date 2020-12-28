@@ -1,0 +1,16 @@
+{
+  "name": "solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.4",
+    "mathjs": "^8.1.0",
+    "nerdamer": "^1.1.6"
+  }
+}
