@@ -5,18 +5,18 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xsahil03x/fancy_on_boarding/blob/master/LICENSE)
 
 
-* Available methods:
+- Available methods:
 
-i. Linear Systems Resolutions:<br />
-    1. Open:<br />
-        a. Newton Raphson<br />
-        b. Secant<br />
-    2. Closed:<br />
-        a. False Position (Regula Falsi)<br />
-        b. Bisection.<br />
-ii. ODE Resolutions<br />
-    1. Euler's Method<br />
-    2. Modified Euler's Method<br />
+* Linear Systems Resolutions:<br />
+** Open:<br />
+*** Newton Raphson<br />
+*** Secant<br />
+** Closed:<br />
+*** False Position (Regula Falsi)<br />
+*** Bisection.<br />
+* ODE Resolutions<br />
+** Euler's Method<br />
+** Modified Euler's Method<br />
 
 
 ## Params definitions:
